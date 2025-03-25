@@ -1,4 +1,4 @@
-### Amazon Sales Report ##
+# Amazon Sales Report #
 ## Program ##
 ```
 import pandas as pd
@@ -65,5 +65,11 @@ if __name__ == "__main__":
 ## OUTPUT;
 
 ![image](https://github.com/user-attachments/assets/247f43da-6d73-46a2-b976-3d9df41a0af3)
+
+![image](https://github.com/user-attachments/assets/07d3f1cc-85ad-45e7-b11d-a58f1d060806)
+
+![image](https://github.com/user-attachments/assets/a9782c35-dff9-4091-ab63-043a0a04e8fd)
+
+
 
 
